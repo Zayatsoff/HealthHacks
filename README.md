@@ -1,15 +1,5 @@
-## Running React on Repl.it
+## Cancare
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+This webapp was created for HealthHacks (by PennApps x WUHC). You can view our submission [here](https://devpost.com/software/mycancer).
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
-
-A place to store files and medical records, a health card with information about the patient, a calendar to track all upcoming appointments and one click to share medical history with doctors.
+----
